@@ -1,0 +1,285 @@
+A computer mouse (plural mice, rarely mouses)[1] is a hand-held pointing device that detects two-dimensional motion relative to a surface. This motion is typically translated into the motion of a pointer on a display, which allows a smooth control of the graphical user interface of a computer.
+The first public demonstration of a mouse controlling a computer system was in 1968. Mice originally used a ball rolling on a surface to detect motion, but modern mice often have optical sensors that have no moving parts. Originally wired to a computer, many modern mice are cordless, relying on short-range radio communication with the connected system.
+In addition to moving a cursor, computer mice have one or more buttons to allow operations such as selection of a menu item on a display. Mice often also feature other elements, such as touch surfaces and scroll wheels, which enable additional control and dimensional input.
+Operation
+Further information: Point and click
+A mouse typically controls the motion of a pointer in two dimensions in a graphical user interface (GUI). The mouse turns movements of the hand backward and forward, left and right into equivalent electronic signals that in turn are used to move the pointer.
+The relative movements of the mouse on the surface are applied to the position of the pointer on the screen, which signals the point where actions of the user take place, so hand movements are replicated by the pointer.[39] Clicking or hovering (stopping movement while the cursor is within the bounds of an area) can select files, programs or actions from a list of names, or (in graphical interfaces) through small images called "icons" and other elements. For example, a text file might be represented by a picture of a paper notebook and clicking while the cursor hovers this icon might cause a text editing program to open the file in a window.
+Different ways of operating the mouse cause specific things to happen in the GUI:[39]
+Click: pressing and releasing a button.
+(left) Single-click: clicking the main button.
+(left) Double-click: clicking the button two times in quick succession counts as a different gesture than two separate single clicks.
+(left) Triple-click: clicking the button three times in quick succession counts as a different gesture than three separate single clicks. Triple clicks are far less common in traditional navigation.
+Right-click: clicking the secondary button, or clicking with two fingers. (This brings a menu with different options depending on the software)
+Middle-click: clicking the tertiary button.
+Drag and drop: pressing and holding a button, then moving the mouse without releasing. (Using the command "drag with the right mouse button" instead of just "drag" when one instructs a user to drag an object while holding the right mouse button down instead of the more commonly used left mouse button.)
+Mouse button chording (a.k.a. Rocker navigation).
+Combination of right-click then left-click.
+Combination of left-click then right-click or keyboard letter.
+Combination of left or right-click and the mouse wheel.
+Clicking while holding down a modifier key.
+Moving the pointer a long distance: When a practical limit of mouse movement is reached, one lifts up the mouse, brings it to the opposite edge of the working area while it is held above the surface, and then replaces it down onto the working surface. This is often not necessary, because acceleration software detects fast movement, and moves the pointer significantly faster in proportion than for slow mouse motion.
+Multi-touch: this method is similar to a multi-touch touchpad on a laptop with support for tap input for multiple fingers, the most famous example being the Apple Magic Mouse.
+Gestures
+Main article: Pointing device gesture
+Users can also employ mice gesturally; meaning that a stylized motion of the mouse cursor itself, called a "gesture", can issue a command or map to a specific action. For example, in a drawing program, moving the mouse in a rapid "x" motion over a shape might delete the shape.
+Gestural interfaces occur more rarely than plain pointing-and-clicking; and people often find them more difficult to use, because they require finer motor control from the user. However, a few gestural conventions have become widespread, including the drag and drop gesture, in which:
+The user presses the mouse button while the mouse cursor hovers over an interface object
+The user moves the cursor to a different location while holding the button down
+The user releases the mouse button
+For example, a user might drag-and-drop a picture representing a file onto a picture of a trash can, thus instructing the system to delete the file.
+Standard semantic gestures include:
+Crossing-based goal
+Drag and drop
+Menu traversal
+Pointing
+Rollover (Mouseover)
+Selection
+Specific uses
+Other uses of the mouse's input occur commonly in special application-domains. In interactive three-dimensional graphics, the mouse's motion often translates directly into changes in the virtual objects' or camera's orientation. For example, in the first-person shooter genre of games (see below), players usually employ the mouse to control the direction in which the virtual player's "head" faces: moving the mouse up will cause the player to look up, revealing the view above the player's head. A related function makes an image of an object rotate, so that all sides can be examined. 3D design and animation software often modally chords many different combinations to allow objects and cameras to be rotated and moved through space with the few axes of movement mice can detect.
+When mice have more than one button, the software may assign different functions to each button. Often, the primary (leftmost in a right-handed configuration) button on the mouse will select items, and the secondary (rightmost in a right-handed) button will bring up a menu of alternative actions applicable to that item. For example, on platforms with more than one button, the Mozilla web browser will follow a link in response to a primary button click, will bring up a contextual menu of alternative actions for that link in response to a secondary-button click, and will often open the link in a new tab or window in response to a click with the tertiary (middle) mouse button.
+Types
+Mechanical mice
+Mouse mechanism diagram.svg
+Operating an opto-mechanical mouse
+Moving the mouse turns the ball.
+X and Y rollers grip the ball and transfer movement.
+Optical encoding disks include light holes.
+Infrared LEDs shine through the disks.
+Sensors gather light pulses to convert to X and Y vectors.
+The German company Telefunken published on their early ball mouse on 2 October 1968.[30] Telefunken's mouse was sold as optional equipment for their computer systems. Bill English, builder of Engelbart's original mouse,[40] created a ball mouse in 1972 while working for Xerox PARC.[41]
+The ball mouse replaced the external wheels with a single ball that could rotate in any direction. It came as part of the hardware package of the Xerox Alto computer. Perpendicular chopper wheels housed inside the mouse's body chopped beams of light on the way to light sensors, thus detecting in their turn the motion of the ball. This variant of the mouse resembled an inverted trackball and became the predominant form used with personal computers throughout the 1980s and 1990s. The Xerox PARC group also settled on the modern technique of using both hands to type on a full-size keyboard and grabbing the mouse when required.
+Mechanical mouse, shown with the top cover removed. The scroll wheel is gray, to the right of the ball.
+The ball mouse has two freely rotating rollers. These are located 90 degrees apart. One roller detects the forward–backward motion of the mouse and other the left–right motion. Opposite the two rollers is a third one (white, in the photo, at 45 degrees) that is spring-loaded to push the ball against the other two rollers. Each roller is on the same shaft as an encoder wheel that has slotted edges; the slots interrupt infrared light beams to generate electrical pulses that represent wheel movement. Each wheel's disc has a pair of light beams, located so that a given beam becomes interrupted or again starts to pass light freely when the other beam of the pair is about halfway between changes.
+Simple logic circuits interpret the relative timing to indicate which direction the wheel is rotating. This incremental rotary encoder scheme is sometimes called quadrature encoding of the wheel rotation, as the two optical sensors produce signals that are in approximately quadrature phase. The mouse sends these signals to the computer system via the mouse cable, directly as logic signals in very old mice such as the Xerox mice, and via a data-formatting IC in modern mice. The driver software in the system converts the signals into motion of the mouse cursor along X and Y axes on the computer screen.
+Hawley Mark II Mice from the Mouse House
+The ball is mostly steel, with a precision spherical rubber surface. The weight of the ball, given an appropriate working surface under the mouse, provides a reliable grip so the mouse's movement is transmitted accurately. Ball mice and wheel mice were manufactured for Xerox by Jack Hawley, doing business as The Mouse House in Berkeley, California, starting in 1975.[42][43] Based on another invention by Jack Hawley, proprietor of the Mouse House, Honeywell produced another type of mechanical mouse.[44][45] Instead of a ball, it had two wheels rotating at off axes. Key Tronic later produced a similar product.[46]
+Modern computer mice took form at the École Polytechnique Fédérale de Lausanne (EPFL) under the inspiration of Professor Jean-Daniel Nicoud and at the hands of engineer and watchmaker André Guignard.[47] This new design incorporated a single hard rubber mouseball and three buttons, and remained a common design until the mainstream adoption of the scroll-wheel mouse during the 1990s.[48] In 1985, René Sommer added a microprocessor to Nicoud's and Guignard's design.[49] Through this innovation, Sommer is credited with inventing a significant component of the mouse, which made it more "intelligent";[49] though optical mice from Mouse Systems had incorporated microprocessors by 1984.[50]
+Another type of mechanical mouse, the "analog mouse" (now generally regarded as obsolete), uses potentiometers rather than encoder wheels, and is typically designed to be plug compatible with an analog joystick. The "Color Mouse", originally marketed by RadioShack for their Color Computer (but also usable on MS-DOS machines equipped with analog joystick ports, provided the software accepted joystick input) was the best-known example.
+Optical and laser mice
+The underside of an optical mouse.
+Main article: Optical mouse
+Early optical mice relied entirely on one or more light-emitting diodes (LEDs) and an imaging array of photodiodes to detect movement relative to the underlying surface, eschewing the internal moving parts a mechanical mouse uses in addition to its optics. A laser mouse is an optical mouse that uses coherent (laser) light.
+The earliest optical mice detected movement on pre-printed mousepad surfaces, whereas the modern LED optical mouse works on most opaque diffuse surfaces; it is usually unable to detect movement on specular surfaces like polished stone. Laser diodes provide good resolution and precision, improving performance on opaque specular surfaces. Later, more surface-independent optical mice use an optoelectronic sensor (essentially, a tiny low-resolution video camera) to take successive images of the surface on which the mouse operates. Battery powered, wireless optical mice flash the LED intermittently to save power, and only glow steadily when movement is detected.
+Inertial and gyroscopic mice
+Often called "air mice" since they do not require a surface to operate, inertial mice use a tuning fork or other accelerometer (US Patent 4787051[51]) to detect rotary movement for every axis supported. The most common models (manufactured by Logitech and Gyration) work using 2 degrees of rotational freedom and are insensitive to spatial translation. The user requires only small wrist rotations to move the cursor, reducing user fatigue or "gorilla arm".
+Usually cordless, they often have a switch to deactivate the movement circuitry between use, allowing the user freedom of movement without affecting the cursor position. A patent for an inertial mouse claims that such mice consume less power than optically based mice, and offer increased sensitivity, reduced weight and increased ease-of-use.[52] In combination with a wireless keyboard an inertial mouse can offer alternative ergonomic arrangements which do not require a flat work surface, potentially alleviating some types of repetitive motion injuries related to workstation posture.
+3D mice
+"SpaceBall" redirects here. For other uses, see Spaceball (disambiguation).
+This section may require cleanup to meet Wikipedia's quality standards. The specific problem is: conflation of devices that you wave around above the desk with devices that remain on the desk while you apply forces and torques to them. Please help improve this section if you can. (April 2020) (Learn how and when to remove this template message)
+Also known as bats,[53] flying mice, or wands,[54] these devices generally function through ultrasound and provide at least three degrees of freedom. Probably the best known example would be 3Dconnexion ("Logitech's SpaceMouse") from the early 1990s. In the late 1990s Kantek introduced the 3D RingMouse. This wireless mouse was worn on a ring around a finger, which enabled the thumb to access three buttons. The mouse was tracked in three dimensions by a base station.[55] Despite a certain appeal, it was finally discontinued because it did not provide sufficient resolution.
+One example of a 2000s consumer 3D pointing device is the Wii Remote. While primarily a motion-sensing device (that is, it can determine its orientation and direction of movement), Wii Remote can also detect its spatial position by comparing the distance and position of the lights from the IR emitter using its integrated IR camera (since the nunchuk accessory lacks a camera, it can only tell its current heading and orientation). The obvious drawback to this approach is that it can only produce spatial coordinates while its camera can see the sensor bar. More accurate consumer devices have since been released, including the PlayStation Move, the Razer Hydra and the controllers part of the HTC Vive virtual reality system. All of these devices can accurately detect position and orientation in 3D space regardless of angle relative to the sensor station.[citation needed]
+A mouse-related controller called the SpaceBall[56] has a ball placed above the work surface that can easily be gripped. With spring-loaded centering, it sends both translational as well as angular displacements on all six axes, in both directions for each. In November 2010 a German Company called Axsotic introduced a new concept of 3D mouse called 3D Spheric Mouse. This new concept of a true six degree-of-freedom input device uses a ball to rotate in 3 axes without any limitations.[57]
+Logitech spacemouse 3D. On display at the Bolo Computer Museum, EPFL, Lausanne
+Silicon Graphics SpaceBall model 1003 (1988), allowing manipulation of objects with six degrees of freedom.
+Logitech 3D Mouse (1990), the first ultrasonic mouse
+A modern six-degrees-of-freedom (6 DOF) 3D mouse (2007)
+Mechanism of the modern 6 DOF mouse consisting of infrared LEDs and detectors with occluders that move with the ball
+Tactile mice
+In 2000, Logitech introduced a "tactile mouse" known as the "iFeel Mouse" developed by Immersion Corporation that contained a small actuator to enable the mouse to generate simulated physical sensations.[58][59] Such a mouse can augment user-interfaces with haptic feedback, such as giving feedback when crossing a window boundary. To surf the internet by touch-enabled mouse was first developed in1996[60] and first implemented commercially by the Wingman Force Feedback Mouse[61]. It requires the user to be able to feel depth or hardness; this ability was realized with the first electrorheological tactile mice[62] but never marketed.
+Pucks
+Tablet digitizers are sometimes used with accessories called pucks, devices which rely on absolute positioning, but can be configured for sufficiently mouse-like relative tracking that they are sometimes marketed as mice.[63]
+Ergonomic mice
+A vertical mouse
+As the name suggests, this type of mouse is intended to provide optimum comfort and avoid injuries such as carpal tunnel syndrome, arthritis and other repetitive strain injuries. It is designed to fit natural hand position and movements, to reduce discomfort.
+When holding a typical mouse, ulna and radius bones on the arm are crossed. Some designs attempt to place the palm more vertically, so the bones take more natural parallel position.[64] Some limit wrist movement, encouraging arm movement instead, that may be less precise but more optimal from the health point of view. A mouse may be angled from the thumb downward to the opposite side – this is known to reduce wrist pronation.[65] However such optimizations make the mouse right or left hand specific, making more problematic to change the tired hand. Time has criticized manufacturers for offering few or no left-handed ergonomic mice: "Oftentimes I felt like I was dealing with someone who’d never actually met a left-handed person before."[66]
+Keyboard with roller bar mouse
+Another solution is a pointing bar device. The so-called roller bar mouse is positioned snugly in front of the keyboard, thus allowing bi-manual accessibility.[67]
+Gaming mice
+A Logitech G703 gaming mouse, with two buttons at the front and two buttons on the side
+These mice are specifically designed for use in computer games. They typically employ a wider array of controls and buttons and have designs that differ radically from traditional mice. They may also have decorative monochrome or programmable RGB LED lighting.[68] The additional buttons can often be used for changing the sensitivity of the mouse[69] or they can be assigned (programmed) to macros (i.e., for opening a program or for use instead of a key combination)[70] It is also common for game mice, especially those designed for use in real-time strategy games such as StarCraft, or in multiplayer online battle arena games such as Dota 2 to have a relatively high sensitivity, measured in dots per inch (DPI),[71] which can be as high as 25,600.[72] Some advanced mice from gaming manufacturers also allow users to adjust the weight of the mouse by adding or subtracting weights to allow for easier control.[73][74] Ergonomic quality is also an important factor in gaming mice, as extended gameplay times may render further use of the mouse to be uncomfortable. Some mice have been designed to have adjustable features such as removable and/or elongated palm rests, horizontally adjustable thumb rests and pinky rests. Some mice may include several different rests with their products to ensure comfort for a wider range of target consumers.[75] Gaming mice are held by gamers in three styles of grip:[76][77]
+Palm Grip: the hand rests on the mouse, with extended fingers.[78]
+Claw Grip: palm rests on the mouse, bent fingers.[79]
+Finger-Tip Grip: bent fingers, palm doesn't touch the mouse.[80]
+Connectivity and communication protocols
+A Microsoft wireless Arc Mouse, marketed as "travel-friendly" and foldable but otherwise operated exactly like other 3-button wheel-based optical mice
+To transmit their input, typical cabled mice use a thin electrical cord terminating in a standard connector, such as RS-232C, PS/2, ADB or USB. Cordless mice instead transmit data via infrared radiation (see IrDA) or radio (including Bluetooth), although many such cordless interfaces are themselves connected through the aforementioned wired serial buses.
+While the electrical interface and the format of the data transmitted by commonly available mice is currently standardized on USB, in the past it varied between different manufacturers. A bus mouse used a dedicated interface card for connection to an IBM PC or compatible computer.
+Mouse use in DOS applications became more common after the introduction of the Microsoft Mouse, largely because Microsoft provided an open standard for communication between applications and mouse driver software. Thus, any application written to use the Microsoft standard could use a mouse with a driver that implements the same API, even if the mouse hardware itself was incompatible with Microsoft's. This driver provides the state of the buttons and the distance the mouse has moved in units that its documentation calls "mickeys",[81] as does the Allegro library.[82]
+Early mice
+Xerox Alto mouse
+In the 1970s, the Xerox Alto mouse, and in the 1980s the Xerox optical mouse, used a quadrature-encoded X and Y interface. This two-bit encoding per dimension had the property that only one bit of the two would change at a time, like a Gray code or Johnson counter, so that the transitions would not be misinterpreted when asynchronously sampled.[83]
+The earliest mass-market mice, such as on the original Macintosh, Amiga, and Atari ST mice used a D-subminiature 9-pin connector to send the quadrature-encoded X and Y axis signals directly, plus one pin per mouse button. The mouse was a simple optomechanical device, and the decoding circuitry was all in the main computer.
+The DE-9 connectors were designed to be electrically compatible with the joysticks popular on numerous 8-bit systems, such as the Commodore 64 and the Atari 2600. Although the ports could be used for both purposes, the signals must be interpreted differently. As a result, plugging a mouse into a joystick port causes the "joystick" to continuously move in some direction, even if the mouse stays still, whereas plugging a joystick into a mouse port causes the "mouse" to only be able to move a single pixel in each direction.
+Serial interface and protocol
+Signals XA and XB in quadrature convey X-direction motion, while YA and YB convey Y-dimension motion; here the pointer (cursor) is shown drawing a small curve.
+Because the IBM PC did not have a quadrature decoder built in, early PC mice used the RS-232C serial port to communicate encoded mouse movements, as well as provide power to the mouse's circuits. The Mouse Systems Corporation version used a five-byte protocol and supported three buttons. The Microsoft version used a three-byte protocol and supported two buttons. Due to the incompatibility between the two protocols, some manufacturers sold serial mice with a mode switch: "PC" for MSC mode, "MS" for Microsoft mode.[84]
+Apple Desktop Bus
+Apple Macintosh Plus mice: beige mouse (left), platinum mouse (right), 1986
+In 1986 Apple first implemented the Apple Desktop Bus allowing the daisy chaining of up to 16 devices, including mice and other devices on the same bus with no configuration whatsoever. Featuring only a single data pin, the bus used a purely polled approach to device communications and survived as the standard on mainstream models (including a number of non-Apple workstations) until 1998 when Apple's iMac line of computers joined the industry-wide switch to using USB. Beginning with the Bronze Keyboard PowerBook G3 in May 1999, Apple dropped the external ADB port in favor of USB, but retained an internal ADB connection in the PowerBook G4 for communication with its built-in keyboard and trackpad until early 2005.
+PS/2 interface and protocol
+Further information: PS/2 connector
+Color-coded PS/2 connection ports; purple for keyboard and green for mouse
+With the arrival of the IBM PS/2 personal-computer series in 1987, IBM introduced the eponymous PS/2 port for mice and keyboards, which other manufacturers rapidly adopted. The most visible change was the use of a round 6-pin mini-DIN, in lieu of the former 5-pin MIDI style full sized DIN 41524 connector. In default mode (called stream mode) a PS/2 mouse communicates motion, and the state of each button, by means of 3-byte packets.[85] For any motion, button press or button release event, a PS/2 mouse sends, over a bi-directional serial port, a sequence of three bytes, with the following format:
+Bit 7	Bit 6	Bit 5	Bit 4	Bit 3	Bit 2	Bit 1	Bit 0
+Byte 1	YV	XV	YS	XS	1	MB	RB	LB
+Byte 2	X movement
+Byte 3	Y movement
+Here, XS and YS represent the sign bits of the movement vectors, XV and YV indicate an overflow in the respective vector component, and LB, MB and RB indicate the status of the left, middle and right mouse buttons (1 = pressed). PS/2 mice also understand several commands for reset and self-test, switching between different operating modes, and changing the resolution of the reported motion vectors.
+A Microsoft IntelliMouse relies on an extension of the PS/2 protocol: the ImPS/2 or IMPS/2 protocol (the abbreviation combines the concepts of "IntelliMouse" and "PS/2"). It initially operates in standard PS/2 format, for backwards compatibility. After the host sends a special command sequence, it switches to an extended format in which a fourth byte carries information about wheel movements. The IntelliMouse Explorer works analogously, with the difference that its 4-byte packets also allow for two additional buttons (for a total of five).[86]
+Mouse vendors also use other extended formats, often without providing public documentation. The Typhoon mouse uses 6-byte packets which can appear as a sequence of two standard 3-byte packets, such that an ordinary PS/2 driver can handle them.[87] For 3-D (or 6-degree-of-freedom) input, vendors have made many extensions both to the hardware and to software. In the late 1990s, Logitech created ultrasound based tracking which gave 3D input to a few millimeters accuracy, which worked well as an input device but failed as a profitable product. In 2008, Motion4U introduced its "OptiBurst" system using IR tracking for use as a Maya (graphics software) plugin.[relevant? – discuss]
+USB
+[icon]
+This section needs expansion with: information on how USB is used by mice, such as details of the USB protocol. You can help by adding to it. (April 2020)
+The industry-standard USB (Universal Serial Bus) protocol and its connector have become widely used for mice; it is among the most popular types.[88]
+Cordless or wireless
+Cordless or wireless mice transmit data via infrared radiation (see IrDA) or radio (including Bluetooth and Wi-Fi).[89] The receiver is connected to the computer through a serial or USB port, or can be built in (as is sometimes the case with Bluetooth and WiFi). Modern non-Bluetooth and non-WiFi wireless mice use USB receivers. Some of these can be stored inside the mouse for safe transport while not in use, while other, newer mice use newer "nano" receivers, designed to be small enough to remain plugged into a laptop during transport, while still being large enough to easily remove.[90]
+The Logitech Metaphor, the first wireless mouse (1984). On display at the Musée Bolo, EPFL
+A Microsoft wireless mouse made for notebook computers
+Microsoft Bluetooth Mobile Mouse 3600
+A wireless Apple mouse
+Operating system support
+MS-DOS and Windows 1.0 support connecting a mouse such as a Microsoft Mouse via multiple interfaces: BallPoint, Bus (InPort), Serial port or PS/2.[91]
+Windows 98 added built-in support for USB Human Interface Device class (USB HID),[92] with native vertical scrolling support.[93] Windows 2000 and Windows Me expanded this built-in support to 5-button mice.[94]
+Windows XP Service Pack 2 introduced a Bluetooth stack, allowing Bluetooth mice to be used without any USB receivers.[95] Windows Vista added native support for horizontal scrolling and standardized wheel movement granularity for finer scrolling.[93]
+Windows 8 introduced BLE (Bluetooth Low Energy) mouse/HID support.[96]
+Multiple-mouse systems
+Some systems allow two or more mice to be used at once as input devices. Late-1980s era home computers such as the Amiga used this to allow computer games with two players interacting on the same computer (Lemmings and The Settlers for example). The same idea is sometimes used in collaborative software, e.g. to simulate a whiteboard that multiple users can draw on without passing a single mouse around.
+Microsoft Windows, since Windows 98, has supported multiple simultaneous pointing devices. Because Windows only provides a single screen cursor, using more than one device at the same time requires cooperation of users or applications designed for multiple input devices.
+Multiple mice are often used in multi-user gaming in addition to specially designed devices that provide several input interfaces.
+Windows also has full support for multiple input/mouse configurations for multi-user environments.
+Starting with Windows XP, Microsoft introduced an SDK for developing applications that allow multiple input devices to be used at the same time with independent cursors and independent input points. However, it no longer appears to be available.[97]
+The introduction of Windows Vista and Microsoft Surface (now known as Microsoft PixelSense) introduced a new set of input APIs that were adopted into Windows 7, allowing for 50 points/cursors, all controlled by independent users. The new input points provide traditional mouse input; however, they were designed with other input technologies like touch and image in mind. They inherently offer 3D coordinates along with pressure, size, tilt, angle, mask, and even an image bitmap to see and recognize the input point/object on the screen.
+As of 2009, Linux distributions and other operating systems that use X.Org, such as OpenSolaris and FreeBSD, support 255 cursors/input points through Multi-Pointer X. However, currently no window managers support Multi-Pointer X leaving it relegated to custom software usage.
+There have also been propositions of having a single operator use two mice simultaneously as a more sophisticated means of controlling various graphics and multimedia applications.[98]
+Buttons
+Main article: Mouse button
+Mouse with additional buttons
+Mouse buttons are microswitches which can be pressed to select or interact with an element of a graphical user interface, producing a distinctive clicking sound.
+Since around the late 1990s, the three-button scrollmouse has become the de facto standard. Users most commonly employ the second button to invoke a contextual menu in the computer's software user interface, which contains options specifically tailored to the interface element over which the mouse cursor currently sits. By default, the primary mouse button sits located on the left-hand side of the mouse, for the benefit of right-handed users; left-handed users can usually reverse this configuration via software.
+Scrolling
+Main article: Scroll wheel
+Nearly all mice now have an integrated input primarily intended for scrolling on top, usually a single-axis digital wheel or rocker switch which can also be depressed to act as a third button. Though less common, many mice instead have two-axis inputs such as a tiltable wheel, trackball, or touchpad. Those with a trackball may be designed to stay stationary, using the trackball instead of moving the mouse.[99]
+Speed
+Mickeys per second is a unit of measurement for the speed and movement direction of a computer mouse,[81] where direction is often expressed as "horizontal" versus "vertical" mickey count. However, speed can also refer to the ratio between how many pixels the cursor moves on the screen and how far the mouse moves on the mouse pad, which may be expressed as pixels per mickey, pixels per inch, or pixels per centimeter.
+The computer industry often measures mouse sensitivity in terms of counts per inch (CPI), commonly expressed as dots per inch (DPI) – the number of steps the mouse will report when it moves one inch. In early mice, this specification was called pulses per inch (ppi).[42] The mickey originally referred to one of these counts, or one resolvable step of motion. If the default mouse-tracking condition involves moving the cursor by one screen-pixel or dot on-screen per reported step, then the CPI does equate to DPI: dots of cursor motion per inch of mouse motion. The CPI or DPI as reported by manufacturers depends on how they make the mouse; the higher the CPI, the faster the cursor moves with mouse movement. However, software can adjust the mouse sensitivity, making the cursor move faster or slower than its CPI. As of 2007, software can change the speed of the cursor dynamically, taking into account the mouse's absolute speed and the movement from the last stop-point. In most software, an example being the Windows platforms, this setting is named "speed," referring to "cursor precision". However, some operating systems name this setting "acceleration", the typical Apple OS designation. This term is incorrect. Mouse acceleration in most mouse software refers to the change in speed of the cursor over time while the mouse movement is constant.[clarification needed][citation needed]
+For simple software, when the mouse starts to move, the software will count the number of "counts" or "mickeys" received from the mouse and will move the cursor across the screen by that number of pixels (or multiplied by a rate factor, typically less than 1). The cursor will move slowly on the screen, with good precision. When the movement of the mouse passes the value set for some threshold, the software will start to move the cursor faster, with a greater rate factor. Usually, the user can set the value of the second rate factor by changing the "acceleration" setting.
+Operating systems sometimes apply acceleration, referred to as "ballistics", to the motion reported by the mouse. For example, versions of Windows prior to Windows XP doubled reported values above a configurable threshold, and then optionally doubled them again above a second configurable threshold. These doublings applied separately in the X and Y directions, resulting in very nonlinear response.[100]
+Mousepads
+Main article: Mousepad
+Engelbart's original mouse did not require a mousepad;[101] the mouse had two large wheels which could roll on virtually any surface. However, most subsequent mechanical mice starting with the steel roller ball mouse have required a mousepad for optimal performance.
+The mousepad, the most common mouse accessory, appears most commonly in conjunction with mechanical mice, because to roll smoothly the ball requires more friction than common desk surfaces usually provide. So-called "hard mousepads" for gamers or optical/laser mice also exist.
+Most optical and laser mice do not require a pad, the notable exception being early optical mice which relied on a grid on the pad to detect movement (e.g. Mouse Systems). Whether to use a hard or soft mousepad with an optical mouse is largely a matter of personal preference. One exception occurs when the desk surface creates problems for the optical or laser tracking, for example, a transparent or reflective surface, such as glass.
+Some mice also come with small "pads" attached to the bottom surface, also called mouse feet or mouse skates, that help the user slide the mouse smoothly across surfaces.[102]
+In the marketplace
+Computer mice built between 1986 and 2007
+Around 1981, Xerox included mice with its Xerox Star, based on the mouse used in the 1970s on the Alto computer at Xerox PARC. Sun Microsystems, Symbolics, Lisp Machines Inc., and Tektronix also shipped workstations with mice, starting in about 1981. Later, inspired by the Star, Apple Computer released the Apple Lisa, which also used a mouse. However, none of these products achieved large-scale success. Only with the release of the Apple Macintosh in 1984 did the mouse see widespread use.[103]
+The Macintosh design,[104] commercially successful and technically influential, led many other vendors to begin producing mice or including them with their other computer products (by 1986, Atari ST, Amiga, Windows 1.0, GEOS for the Commodore 64, and the Apple IIGS).[105]
+The widespread adoption of graphical user interfaces in the software of the 1980s and 1990s made mice all but indispensable for controlling computers. In November 2008, Logitech built their billionth mouse.[106]
+Use in games
+Logitech G5 laser mouse designed for games, with adjustable weights (on left)
+The Classic Mac OS Desk Accessory Puzzle in 1984 was the first game designed specifically for a mouse.[107] The device often functions as an interface for PC-based computer games and sometimes for video game consoles.
+First-person shooters
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (August 2012) (Learn how and when to remove this template message)
+FPSs naturally lend themselves to separate and simultaneous control of the player's movement and aim, and on computers this has traditionally been achieved with a combination of keyboard and mouse. Players use the X-axis of the mouse for looking (or turning) left and right, and the Y-axis for looking up and down; the keyboard is used for movement and supplemental inputs.
+Many shooting genre players prefer a mouse over a gamepad analog stick because the wide range of motion offered by a mouse allows for faster and more varied control. Although an analog stick allows the player more granular control, it is poor for certain movements, as the player's input is relayed based on a vector of both the stick s direction and magnitude. Thus, a small but fast movement (known as "flick-shotting") using a gamepad requires the player to quickly move the stick from its rest position to the edge and back again in quick succession, a difficult maneuver. In addition the stick also has a finite magnitude; if the player is currently using the stick to move at a non-zero velocity their ability to increase the rate of movement of the camera is further limited based on the position their displaced stick was already at before executing the maneuver. The effect of this is that a mouse is well suited not only to small, precise movements but also to large, quick movements and immediate, responsive movements; all of which are important in shooter gaming.[108] This advantage also extends in varying degrees to similar game styles such as third-person shooters.
+Some incorrectly ported games or game engines have acceleration and interpolation curves which unintentionally produce excessive, irregular, or even negative acceleration when used with a mouse instead of their native platform's non-mouse default input device. Depending on how deeply hardcoded this misbehavior is, internal user patches or external 3rd-party software may be able to fix it.[109] Individual game engines will also have their own sensitivities.[110] This often restricts you from taking one games existing sensitivity, transferring it to another, and acquiring the same 360 rotational measurements. A sensitivity converter is required in order to translate rotational movements properly.[111]
+Due to their similarity to the WIMP desktop metaphor interface for which mice were originally designed, and to their own tabletop game origins, computer strategy games are most commonly played with mice. In particular, real-time strategy and MOBA games usually require the use of a mouse.
+The left button usually controls primary fire. If the game supports multiple fire modes, the right button often provides secondary fire from the selected weapon. Games with only a single fire mode will generally map secondary fire to ADS. In some games, the right button may also invoke accessories for a particular weapon, such as allowing access to the scope of a sniper rifle or allowing the mounting of a bayonet or silencer.
+Players can use a scroll wheel for changing weapons (or for controlling scope-zoom magnification, in older games). On most first person shooter games, programming may also assign more functions to additional buttons on mice with more than three controls. A keyboard usually controls movement (for example, WASD for moving forward, left, backward and right, respectively) and other functions such as changing posture. Since the mouse serves for aiming, a mouse that tracks movement accurately and with less lag (latency) will give a player an advantage over players with less accurate or slower mice. In some cases the right mouse button may be used to move the player forward, either in lieu of, or in conjunction with the typical WASD configuration.
+Many games provide players with the option of mapping their own choice of a key or button to a certain control. An early technique of players, circle strafing, saw a player continuously strafing while aiming and shooting at an opponent by walking in circle around the opponent with the opponent at the center of the circle. Players could achieve this by holding down a key for strafing while continuously aiming the mouse towards the opponent.
+Games using mice for input are so popular that many manufacturers make mice specifically for gaming. Such mice may feature adjustable weights, high-resolution optical or laser components, additional buttons, ergonomic shape, and other features such as adjustable CPI. Mouse Bungees are typically used with gaming mice because it eliminates the annoyance of the cable.
+Many games, such as first- or third-person shooters, have a setting named "invert mouse" or similar (not to be confused with "button inversion", sometimes performed by left-handed users) which allows the user to look downward by moving the mouse forward and upward by moving the mouse backward (the opposite of non-inverted movement). This control system resembles that of aircraft control sticks, where pulling back causes pitch up and pushing forward causes pitch down; computer joysticks also typically emulate this control-configuration.
+After id Software's commercial hit of Doom, which did not support vertical aiming, competitor Bungie's Marathon became the first first-person shooter to support using the mouse to aim up and down.[112] Games using the Build engine had an option to invert the Y-axis. The "invert" feature actually made the mouse behave in a manner that users now regard as non-inverted (by default, moving mouse forward resulted in looking down). Soon after, id Software released Quake, which introduced the invert feature as users now know it.
+Home consoles
+Sega Dreamcast mouse
+In 1988, the VTech Socrates educational video game console featured a wireless mouse with an attached mouse pad as an optional controller used for some games. In the early 1990s, the Super Nintendo Entertainment System video game system featured a mouse in addition to its controllers. The Mario Paint game in particular used the mouse's capabilities[113] as did its successor on the N64. Sega released official mice for their Genesis/Mega Drive, Saturn and Dreamcast consoles. NEC sold official mice for its PC Engine and PC-FX consoles. Sony released an official mouse product for the PlayStation console, included one along with the Linux for PlayStation 2 kit, as well as allowing owners to use virtually any USB mouse with the PS2, PS3, and PS4. Nintendo's Wii also had this added on in a later software update, retained on the Wii U.
+A computer mouse is a handheld pointing device and input device used with all desktop computers that moves the mouse pointer on the screen. To help with portability, mobile devices like a laptop use a touchpad instead of a mouse. Devices like a smartphone and tablet use a touch screen for their pointer input. This page is designed to help new computer users become more familiar and efficient with a desktop computer mouse.
+Connecting a mouse to a computer.
+Familiarizing yourself with the mouse.
+Holding the mouse.
+Moving the mouse pointer.
+Understanding the mouse cursor (pointer).
+Clicking with the mouse.
+Opening a file or program.
+Selecting an object and highlighting text.
+Drag-and-drop.
+Viewing properties or right-clicking.
+Copy and paste using the mouse.
+Using the mouse wheel.
+Other mouse buttons.
+Other types of mice.
+Connecting a mouse to a computer
+Before you can begin to use the mouse, it must be connected correctly to the computer and working. If you have a new computer and need help connecting the mouse, or the mouse is not working, see our steps on connecting and installing a mouse.
+How to connect and install a computer mouse.
+Familiarizing yourself with the mouse
+Today's computer mouse consists of two buttons and a mouse wheel as shown in the picture below. By default, the left button acts as the left-click and is the default mouse button you use for most actions on the mouse. The right mouse button performs the right-click and gives you a menu or other options that are explained later.
+Microsoft IntelliMouse with wheel
+Tip
+If you are left-handed, the mouse buttons can be switched. For help with switching the mouse button, see: How to change the left and right mouse buttons.
+As far as the mouse wheel, it is used to scroll up and down and is also explained in further detail later in this page.
+Bottom of optical-mechanical and optical computer mouse
+A mouse generates movement by using one of two technologies: optical or mechanical. Today, the optical mouse is the most popular, which uses either LED or laser to detect movement. The other and older technology is the mechanical mouse, which uses a ball and wheels to determine the movement of the mouse.
+Holding the mouse
+To hold the mouse, keep your thumb on the side of the mouse, index finger on the left button, and middle finger on the right button. While holding the mouse relax your hand and make sure your hand is straight with your arm. You should never have your wrist at an angle while using the mouse.
+To move the mouse, use either your ring finger and pinky to push and move left and your thumb to move right. All up and down movement is done by gently gripping the mouse and pushing or pulling the mouse.
+Moving the mouse pointer
+Using your right or left hand, pick up the mouse and move it to the center of the mouse pad. Once in position, drag the mouse up, down, left, or right to move the mouse pointer on the screen. If you reach the edge of your mouse pad, pick up the mouse and move it to the opposite side of the mouse pad. Then, continue dragging the mouse in the direction you want the mouse pointer to move.
+One way the computer knows the mouse pointers position is by using an x-axis and y-axis value. As you move your mouse right, the x-axis value increases, and moving left decreases the x-axis value. Moving down increases the y-axis, and moving up decreases the y-axis. Move your mouse and watch the values in the interactive example below.
+114
+ Mouse x-axis position.
+639
+ Mouse y-axis position.
+Your mouse pad should be big enough that it does not require you to pick up the mouse. If you find yourself having to pick up the mouse frequently, you may want to increase the speed of your mouse.
+How to change the mouse speed in Windows.
+Tip
+If you or someone you know needs another way of practicing with the mouse, play a few games of Solitaire or FreeCell. These games are easy to play and can teach how to move, click, and drag something using the mouse.
+Understanding the mouse cursor (pointer)
+Hover cursor change
+As you move your mouse, the cursor (pointer) can change as it hovers over a different types of object. For example, in the animated illustration at right, the mouse cursor is an arrow. When it hovers over text, the mouse pointer changes to an I-beam cursor. Similarly, when the pointer hovers over a hyperlink in a browser, the mouse pointer changes to a hand icon.
+Tip
+Any program and even a web page can change how a mouse pointer appears.
+Practice hovering with the mouse pointer
+In this example text, you can practice hovering your mouse over the text to get each of the different mouse pointers. If your mouse pointer is not over any of the text, your cursor should be an arrow. As you move your pointer over any of this text, it changes to an I-beam cursor that allows you to select text (explained later). Finally, if you move your mouse cursor over this link, it changes to a hand with the index finger pointing to the link cursor. If you click the link, it skips to the next section about using your mouse to click.
+Clicking with the mouse
+While you are going to spend most of the time moving a mouse pointer, another important feature of the mouse is clicking the mouse buttons. As mentioned earlier, most clicking is done with the left mouse button. To left-click, you press down on the left mouse button and then let go as if you were pushing a button on a telephone.
+Practice left clicking check boxes
+Below are several check boxes you can use to practice left clicking. Check each of the boxes below.
+ Check box 1.
+ Check box 2.
+ Check box 3.
+ Check box 4.
+ Check box 5.
+Practice left clicking text
+Practice moving the text cursor by clicking anywhere in this box. When you single left click, an I-beam pointer should begin to flash where you clicked as an indication of where you would start to type.
+Opening a file or program
+To open a file or program on a Windows computer, double-click the left mouse button on the icon of the file or program you want to open. To double-click, press your left mouse button twice quickly. For new computer users, double-clicking can be difficult because it requires two quick clicks. If you click too slow or move your mouse while clicking, it may not work.
+Tip
+If you are having trouble double-clicking your mouse button, you can slow down the mouse clicking speed. For help with slowing down the clicking speed, see: How to increase or decrease the mouse double-click speed.
+Double-click practice
+Double-click this text.
+Double-clicking text practice
+Practice double-clicking this text using the above steps. If done successfully double-clicking will select a word. If you triple-click, the full paragraph should be highlighted.
+Note
+Although double-clicking on an icon usually opens that file or application, some programs, operating system, menus, and other features may only require a single click to perform an action.
+Drag and select files
+Selecting an object and highlighting text
+When your mouse pointer is on top of an object (e.g., an icon), click the left mouse button once to highlight that object. If you want to select multiple files, as is being done in the animated picture, you can drag a marquee around all objects you want to highlight.
+To select text, click the left button at the end of the text you want to select. While pressing the left mouse button, drag the mouse to the left and up if you want to select multiple lines of text.
+Practice highlighting text
+Below is a text field to practice highlighting text using the keyboard.
+Practice highlighting this text using the above steps. Click the mouse cursor at the start of the text, hold down shift, and use your arrow keys.
+How to highlight or select text.
+How to select or highlight multiple files and folders.
+Drag-and-drop
+The phrase drag-and-drop is used to describe the action of selecting an object or text, moving it (dragging), and then placing it (dropping) in another area. For example, to drag-and-drop an object such as an icon, you would first move your mouse cursor over it. Then, you would press and hold down the left mouse button, move the object to the location you desire, and release the button to set it down.
+Full information and examples of drag-and-drop.
+Viewing properties or right-clicking
+Right-click menu
+To see the properties of anything on the computer, move your mouse cursor over the text, icon, folder, or file press the right mouse button (right-click). If the right-click menu does not give you the options you need, select "Properties" from the drop-down menu. If you view the properties of text, you get a menu with options such as cut, copy, and paste.
+Copy and paste using the mouse
+After learning how to right-click using the mouse you are given many new options such as the ability to cut, copy, and paste.
+Practice copying and pasting using the mouse
+Use the two text fields below to copy the text from the first text box into the second box. Highlight the text using your mouse, as explained in a previous section, and then right-click anywhere on the highlighted text. In the menu that appears, select Copy. When then menu disappears, right-click in the second box, where you want to put the text. When the menu appears, select Paste.
+Example copy text
+
+How to copy and paste text in a document or another program.
+Using the mouse wheel
+The mouse wheel allows you to scroll up and down on any page without having to use the vertical scroll bar. If your mouse has a wheel, you may have already used it to scroll down as you are reading this page. If you are not familiar with this wheel, use it now to scroll up and down on this page.
+Tip
+On most computer mice, the mouse wheel is also a button. You can press it to take an optional action, which is dependent on the program you are using. For example, if you click on this Computer Hope link by pressing down on the mouse wheel, it opens in a new tab.
+Other mouse buttons
+There are many different mice available for the computer today, with many different button options. Another popular configuration for a mouse today is to have two thumb buttons on the left side of the mouse. These two buttons allow you to move back and forward on a browser or can be programmed to perform any other action on your computer.
+Logitech Cordless Trackman Optical Trackball mouse
+Other types of mice
+Finally, keep in mind that many sizes and types of mice can be used with a computer. If you have a hard time using your mouse or want to try something visit a local computer store or online store to see available options. In the picture, is an example of a trackball mouse that is easier for some users to use.
